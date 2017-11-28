@@ -49,7 +49,7 @@ $( document ).ready(function() {
 
 	    })($(this), false, 0, null);
     });
-    $(".teaser-square:first").click();
+    $(".side-tiles-container").find(".teaser-square:first").click();
 });
 
 $('.loader-wait').toggleClass('rotate-loading');

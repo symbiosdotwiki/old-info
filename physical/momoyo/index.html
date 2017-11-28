@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Smile :) • Nic Woodward</title>
+    <meta name="description" content="As part of the show EXO EMO at Greene Naftali, curated by Antoine Catala, I created custom software for Momoyo Torimitsu which would allow users to select a type of professional smile and would then apply that smile to a blank-face photo of the user and show this as a video animation. This was a re-creation of a piece from 2007 which required users to manually mark feaures of their face to accomplish the smile animation. For this iteration I used Python OpenCV and the candide3 facial model for the facial-reconstruction engine with a custom single-page Node.js / Handlebars.js user interface which communicated with each other through OSC. Alex Hayden fabricated the custom button interface for the piece.
+">
+    <meta name="keywords" content="">
+    
+    
+    	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="Smile :)">
+	<meta name="twitter:description" content="As part of the show EXO EMO at Greene Naftali, curated by Antoine Catala, I created custom software for Momoyo Torimitsu which would allow users to select a type of professional smile and would then apply that smile to a blank-face photo of the user and show this as a video animation. This was a re-creation of a piece from 2007 which required users to manually mark feaures of their face to accomplish the smile animation. For this iteration I used Python OpenCV and the candide3 facial model for the facial-reconstruction engine with a custom single-page Node.js / Handlebars.js user interface which communicated with each other through OSC. Alex Hayden fabricated the custom button interface for the piece.
+">
+	
+	
+	
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="http://www.nicwoodward.info/nw-info/images/120x120.gif">
+	
+	<!-- Open Graph -->
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Smile :)">
+	<meta property="og:description" content="As part of the show EXO EMO at Greene Naftali, curated by Antoine Catala, I created custom software for Momoyo Torimitsu which would allow users to select a type of professional smile and would then apply that smile to a blank-face photo of the user and show this as a video animation. This was a re-creation of a piece from 2007 which required users to manually mark feaures of their face to accomplish the smile animation. For this iteration I used Python OpenCV and the candide3 facial model for the facial-reconstruction engine with a custom single-page Node.js / Handlebars.js user interface which communicated with each other through OSC. Alex Hayden fabricated the custom button interface for the piece.
+">
+	<meta property="og:url" content="http://www.nicwoodward.info/nw-info/physical/momoyo/">
+	<meta property="og:site_name" content="Nic Woodward">
+
+    <link rel="canonical" href="/physical/momoyo/">
+
+    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Nic Woodward Atom Feed">
+    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">
+
+<link rel="stylesheet" href="/venobox/venobox.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/foundation.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="/css/main.css">
+
+    <!-- HTML5 Shiv and Media Query Support for IE -->
+    <!--[if lt IE 9]>
+      <script src="http://www.nicwoodward.info/nw-info/js/vendor/html5shiv.min.js"></script>
+      <script src="http://www.nicwoodward.info/nw-info/js/vendor/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body id="js-body">
+
+    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+
+    <header id="masthead">
+  <div class="inner-wrap">
+    <a href="/" class="site-title">Nic Woodward</a>
+    <nav role="navigation" class="menu top-menu">
+        <ul class="menu-item">
+	<li class="home"><a href="/">Nic Woodward</a></li>
+	
+    
+        
+    
+    <li ><a href="/3d/" >3D</a></li>
+  
+    
+        
+    
+    <li ><a href="/web/" >Web</a></li>
+  
+    
+        
+    
+    <li ><a href="/physical/" >Physical</a></li>
+  
+    
+        
+    
+    <li ><a href="/cv/" >CV</a></li>
+  
+</ul>
+    </nav>
+  </div><!-- /.inner-wrap -->
+</header><!-- /.masthead -->
+    <nav role="navigation" id="js-menu" class="sliding-menu-content">
+  <ul class="menu-item">
+    <li>
+      <a href="/3d/">
+        
+        <div class="title">3D</div>
+        
+      </a>
+    </li><li>
+      <a href="/web/">
+        
+        <div class="title">Web</div>
+        
+      </a>
+    </li><li>
+      <a href="/physical/">
+        
+        <div class="title">Physical</div>
+        
+      </a>
+    </li><li>
+      <a href="/cv/">
+        
+        <div class="title">CV</div>
+        
+      </a>
+    </li>
+  </ul>
+</nav>
+<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
+  <span class="nav-lines"></span>
+</button>
+
+<div id="js-menu-screen" class="menu-screen"></div>
+
+
+    <div class="loader-wait hidde shown rotate-loading">
+      LOADING
+    </div>
+
+    <div id="page-wrapper" class="hidde">
+      <div id="main" role="main">
+    <article class="wrap" itemscope itemtype="http://schema.org/Article">
+        
+  <nav class="breadcrumbs">
+    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="http://www.nicwoodward.info/nw-info" itemprop="url">
+        <span itemprop="title">Home</span>
+      </a> › 
+    <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+      <a href="http://www.nicwoodward.info/nw-info/physical/" itemprop="url">
+        <span itemprop="title">Physical</span>
+      </a>
+    </span>
+  </nav><!-- /.breadcrumbs -->
+
+        <div class="page-title">
+            <h1>Smile :)</h1>
+        </div>
+        <div class="inner-wrap">
+  
+            <div id="content" class="page-content" itemprop="articleBody">
+<br>
+<br>
+                <p>As part of the show EXO EMO at Greene Naftali, curated by Antoine Catala, I created custom software for Momoyo Torimitsu which would allow users to select a type of professional smile and would then apply that smile to a blank-face photo of the user and show this as a video animation. This was a re-creation of a piece from 2007 which required users to manually mark feaures of their face to accomplish the smile animation. For this iteration I used Python OpenCV and the candide3 facial model for the facial-reconstruction engine with a custom single-page Node.js / Handlebars.js user interface which communicated with each other through OSC. Alex Hayden fabricated the custom button interface for the piece.</p>
+
+
+<br>
+<br>
+<div class="row">
+  <div class="large-11 columns large-centered">
+    <ul class="clearing-thumbs thumbs" data-clearing>
+      <li><a class="venobox vbox-item th" href="https://farm5.staticflickr.com/4527/37945870934_1ce8e87eb7_o.jpg" data-gall="myGallery"><img src="https://farm5.staticflickr.com/4527/37945870934_743968dd4f_q.jpg" alt="26f710_234b24cc6d324ae891a88e88380bb246-mv2" title="26f710_234b24cc6d324ae891a88e88380bb246-mv2"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm5.staticflickr.com/4527/38610550326_2d49fe27dd_o.png" data-gall="myGallery"><img src="https://farm5.staticflickr.com/4527/38610550326_b77a0bf17e_q.jpg" alt="Screen Shot 2017-11-26 at 7.22.01 PM" title="Screen Shot 2017-11-26 at 7.22.01 PM"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm5.staticflickr.com/4566/38610559476_77ca4df5ff_o.png" data-gall="myGallery"><img src="https://farm5.staticflickr.com/4566/38610559476_ef014aef91_q.jpg" alt="Screen Shot 2017-11-26 at 7.22.16 PM" title="Screen Shot 2017-11-26 at 7.22.16 PM"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm5.staticflickr.com/4556/26890447739_0a66133918_o.jpg" data-gall="myGallery"><img src="https://farm5.staticflickr.com/4556/26890447739_01cc96fa6c_q.jpg" alt="Screen Shot 2017-11-26 at 7.23.02 PM" title="Screen Shot 2017-11-26 at 7.23.02 PM"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm5.staticflickr.com/4568/37779294535_5813ec3806_o.jpg" data-gall="myGallery"><img src="https://farm5.staticflickr.com/4568/37779294535_0408508729_q.jpg" alt="Screen Shot 2017-11-26 at 7.22.34 PM" title="Screen Shot 2017-11-26 at 7.22.34 PM"></a></li>
+      <li><a class="venobox vbox-item th" href="https://farm5.staticflickr.com/4552/37948958604_0d03a0ae48_o.jpg" data-gall="myGallery"><img src="https://farm5.staticflickr.com/4552/37948958604_3aa5ff4462_q.jpg" alt="Screen Shot 2017-11-26 at 7.43.10 PM" title="Screen Shot 2017-11-26 at 7.43.10 PM"></a></li>
+    </ul>
+  </div>
+</div>
+
+  
+                <hr />
+                <footer class="page-footer">
+                    
+                    <div class="page-meta">
+	<p>Updated <time datetime="2017-05-17T00:00:00Z" itemprop="datePublished">May 17, 2017</time></p>
+</div><!-- /.page-meta -->
+                </footer><!-- /.footer -->
+                <aside>
+                    
+                </aside>
+            </div><!-- /.content -->
+        </div><!-- /.inner-wrap -->
+        
+    </article><!-- /.wrap -->
+</div><!-- /#main -->
+
+      <footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		
+      
+        
+      
+			<li><a href="http://www.nicwoodward.info/nw-info" ></a></li>
+		
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; 2017 <a href="http://www.nicwoodward.info/nw-info">Nic Woodward</a>
+</footer>
+      <script src="/js/vendor/jquery-1.9.1.min.js"></script>
+      <script src="/js/vendor/jquery.lazy.min.js"></script>
+    <script src="/js/vendor/jquery.lazy.plugins.min.js"></script>
+      <script src="/js/main.js"></script>
+    <script type="text/javascript" src="/venobox/venobox.min.js"></script>
+    <script>
+$(document).ready(function(){
+
+    /* default settings */
+    $('.venobox').venobox(); 
+
+
+    /* custom settings */
+    $('.venobox_custom').venobox({
+        framewidth: '400px',        // default: ''
+        frameheight: '300px',       // default: ''
+        border: '10px',             // default: '0'
+        bgcolor: '#5dff5e',         // default: '#fff'
+        titleattr: 'data-title',    // default: 'title'
+        numeratio: true,            // default: false
+        infinigall: true            // default: false
+    });
+
+    /* auto-open #firstlink on page load */
+    $("#firstlink").venobox().trigger('click');
+});
+</script>
+    </div>
+
+  </body>
+
+</html>

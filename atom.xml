@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Nic Woodward]]></title>
+  <link href="http://www.nicwoodward.info/nw-info/atom.xml" rel="self"/>
+  <link href="http://www.nicwoodward.info/nw-info/"/>
+  <updated>2017-11-28T10:46:03-05:00</updated>
+  <id>http://www.nicwoodward.info/nw-info/</id>
+  <author>
+    <name><![CDATA[Nic Woodward]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Comeback]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/ssion/"/>
+    <updated>2017-11-20T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/ssion</id>
+    <content type="html"><![CDATA[<p>For this video I rendered the growing grass and rolling O assets which were then composited in.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/jLVWlaGFhXE" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raingurl]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/web/raingurl/"/>
+    <updated>2017-11-17T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/web/raingurl</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raingurl]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/raingurl/"/>
+    <updated>2017-11-15T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/raingurl</id>
+    <content type="html"><![CDATA[<p>For this video I rendered the intro and outro text animations, the rising smoke cloud, and various fills of neon bars in smoke.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/_3T8KznhThQ" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Everything Is Okay]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/physical/everythingisok/"/>
+    <updated>2017-10-17T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/physical/everythingisok</id>
+    <content type="html"><![CDATA[<p>In order to help Antoine realize his synchronized, physical-computing opera with video, pneumatic wall pieces, and animated singing scupltures, I created a suite of code to control and sync multiple WiFi-connected devices. This was accomplished with a OSC-based Node.js server running on an Intel Compute Stick along with multiple ESP8266 NodeMCU devices for the audio and pnematic pumps, as well as Compute Sticks running a Python-controlled version of VLC Player. All devices were programmed to work by simply restarting any device. The system is controlled via a web app which allows the gallery to update the time-triggers of the devices, monitor which devices are offline, to sync the system, and to play/stop the sequence of events at the beginning and end of the day, all remotely!</p>
+
+<p>Photos courtesy of 47 Canal.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Birds]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/bell-curve/"/>
+    <updated>2017-09-15T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/bell-curve</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Rave Shop]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/web/xtra-gear/"/>
+    <updated>2017-09-10T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/web/xtra-gear</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Raingurl Umbrella]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/physical/raingurl-umbrella/"/>
+    <updated>2017-08-17T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/physical/raingurl-umbrella</id>
+    <content type="html"><![CDATA[<p>As part of the music video for Yaeji&rsquo;s Raingurl, I outfitted a commercially-available umbrella with a custom lighting unit powered by an ESP8266 with 5050 LEDs that was controlled via WiFi from my laptop on set. This allowed us to quickly converge on the desired look for any shot.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/_3T8KznhThQ" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Temple]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/temple/"/>
+    <updated>2017-08-15T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/temple</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Museum]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/museum/"/>
+    <updated>2017-08-05T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/museum</id>
+    <content type="html"><![CDATA[<p>For this video I rendered</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Biking City]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/adidas/"/>
+    <updated>2017-07-15T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/adidas</id>
+    <content type="html"><![CDATA[<p>An animation for Adidas x Alexander Wang of bike paths through the city.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blckbdy]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/web/blckbdy/"/>
+    <updated>2017-06-21T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/web/blckbdy</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Garden Parties]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/garden-parties/"/>
+    <updated>2017-06-15T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/garden-parties</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The EARTH IS FLAT]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/web/yestheearthisflat/"/>
+    <updated>2017-06-10T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/web/yestheearthisflat</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Gamec]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/leah-gamec/"/>
+    <updated>2017-05-20T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/leah-gamec</id>
+    <content type="html"><![CDATA[<p>Working from a mood board, I rendered out various speculative renders of what the museum space would like during th exhibition.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Smile :)]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/physical/momoyo/"/>
+    <updated>2017-05-17T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/physical/momoyo</id>
+    <content type="html"><![CDATA[<p>As part of the show EXO EMO at Greene Naftali, curated by Antoine Catala, I created custom software for Momoyo Torimitsu which would allow users to select a type of professional smile and would then apply that smile to a blank-face photo of the user and show this as a video animation. This was a re-creation of a piece from 2007 which required users to manually mark feaures of their face to accomplish the smile animation. For this iteration I used Python OpenCV and the candide3 facial model for the facial-reconstruction engine with a custom single-page Node.js / Handlebars.js user interface which communicated with each other through OSC. Alex Hayden fabricated the custom button interface for the piece.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Theory of Mind]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/antoine-mind/"/>
+    <updated>2017-04-05T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/antoine-mind</id>
+    <content type="html"><![CDATA[<p>I worked with Antoine to transform a set of drawing into hyper-realistic renders of 3D Roman comics.</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212082593?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212276159?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415965?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415974?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415948?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415956?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Photographer]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/photographer/"/>
+    <updated>2017-02-15T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/photographer</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Understand NYC]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/web/understand-nyc/"/>
+    <updated>2017-02-14T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/web/understand-nyc</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Subway]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/subway/"/>
+    <updated>2016-11-15T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/subway</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Artists' Portfolio]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/web/postvision/"/>
+    <updated>2016-08-17T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/web/postvision</id>
+    <content type="html"><![CDATA[<p>This is a custom demo website and database I built from scratch for POST VISION last summer which was never finished. The site was built using a customized Wagtail CMS backend which allowed for M2M associations of artists and artworks and used a from-scratch front-end using Backbone.js, Require.js, Handlebars.js, and Video.js with a custom player skin. Website design by Emily Dubovoy.</p>
+]]></content>
+  </entry>
+  
+</feed>

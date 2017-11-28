@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://www.nicwoodward.info/nw-info/sitemap.xml 

@@ -4,7 +4,7 @@
   <title><![CDATA[Nic Woodward]]></title>
   <link href="http://www.nicwoodward.info/nw-info/atom.xml" rel="self"/>
   <link href="http://www.nicwoodward.info/nw-info/"/>
-  <updated>2017-12-01T12:40:07-05:00</updated>
+  <updated>2018-04-26T17:48:34-04:00</updated>
   <id>http://www.nicwoodward.info/nw-info/</id>
   <author>
     <name><![CDATA[Nic Woodward]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Jungle Butterfly]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/jungle-butterfly/"/>
+    <updated>2018-04-10T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/jungle-butterfly</id>
+    <content type="html"><![CDATA[<p>Wing textures made using a custom sound-reactive multi-scale turing pattern GLSL shader patch within Touch Designer, aura made using a custom optical flow GLSL patch within TD as well.</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/266772352?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[In the Dark]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/false-witness/"/>
+    <updated>2018-02-21T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/false-witness</id>
+    <content type="html"><![CDATA[<p>Made utilizing various algorithms such as pixel sorting and texture breathing, rendered in Octane.</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/266772627?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Outre Lux]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/photay/"/>
+    <updated>2018-02-09T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/photay</id>
+    <content type="html"><![CDATA[<p>In collaboration with Enayet Kabir, we designed and filmed a 3D world entirely within Unreal Engine 4 which was edited and synced with the music without any external software.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/QGmXwPihEns" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Comeback]]></title>
@@ -192,33 +228,6 @@
     <updated>2017-02-15T00:00:00-05:00</updated>
     <id>http://www.nicwoodward.info/nw-info/3d/photographer</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Understand NYC]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/web/understand-nyc/"/>
-    <updated>2017-02-14T00:00:00-05:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/web/understand-nyc</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Subway]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/3d/subway/"/>
-    <updated>2016-11-15T00:00:00-05:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/3d/subway</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Artists' Portfolio]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/web/postvision/"/>
-    <updated>2016-08-17T00:00:00-04:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/web/postvision</id>
-    <content type="html"><![CDATA[<p>This is a custom demo website and database I built from scratch for POST VISION last summer which was never finished. The site was built using a customized Wagtail CMS backend which allowed for M2M associations of artists and artworks and used a from-scratch front-end using Backbone.js, Require.js, Handlebars.js, and Video.js with a custom player skin. Website design by Emily Dubovoy.</p>
 ]]></content>
   </entry>
   

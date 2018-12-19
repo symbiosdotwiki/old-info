@@ -52,17 +52,10 @@ $( document ).ready(function() {
     $(".side-tiles-container").find(".teaser-square:first").click();
 });
 
-$('.loader-wait').toggleClass('rotate-loading');
-setTimeout(function(){
-	$('.loader-wait').toggleClass('rotate-loading');
-}, 200);
-setInterval(function(){
-	$('.loader-wait').toggleClass('rotate-loading');
-}, 2000);
 $(window).on("load", function() {
+	$('.loader-wait').removeClass('shown');
   setTimeout(function(){
   	$('#page-wrapper').addClass('shown');
   	$('#full-page-wrapper').addClass('shown');
   },2000);
-  $('.loader-wait').removeClass('shown');
 });

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.nicwoodward.info/nw-info/3d/the-truth/</loc>
+    <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://www.nicwoodward.info/nw-info/web/one-more/</loc>
+    <lastmod>2018-09-01T00:00:00-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://www.nicwoodward.info/nw-info/3d/myriad/</loc>
     <lastmod>2018-05-10T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
@@ -23,11 +33,6 @@
   <url>
     <loc>http://www.nicwoodward.info/nw-info/3d/ssion/</loc>
     <lastmod>2017-11-20T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.nicwoodward.info/nw-info/web/raingurl/</loc>
-    <lastmod>2017-11-17T00:00:00-05:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -58,11 +63,6 @@
   <url>
     <loc>http://www.nicwoodward.info/nw-info/3d/temple/</loc>
     <lastmod>2017-08-15T00:00:00-04:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://www.nicwoodward.info/nw-info/3d/museum/</loc>
-    <lastmod>2017-08-05T00:00:00-04:00</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -131,67 +131,62 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://www.nicwoodward.info/nw-info/web/brownstone/</loc>
-    <lastmod>2015-11-17T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>http://www.nicwoodward.info/nw-info/web/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/physical/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/code/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/3d/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/portfolio/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/aural/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/cv/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/blog/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://www.nicwoodward.info/nw-info/visual/</loc>
-    <lastmod>2019-02-02T14:58:18-05:00</lastmod>
+    <lastmod>2019-02-02T16:10:22-05:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

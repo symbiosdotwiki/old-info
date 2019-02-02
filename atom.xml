@@ -4,7 +4,7 @@
   <title><![CDATA[Nic Woodward]]></title>
   <link href="http://www.nicwoodward.info/nw-info/atom.xml" rel="self"/>
   <link href="http://www.nicwoodward.info/nw-info/"/>
-  <updated>2019-02-02T14:58:18-05:00</updated>
+  <updated>2019-02-02T16:10:22-05:00</updated>
   <id>http://www.nicwoodward.info/nw-info/</id>
   <author>
     <name><![CDATA[Nic Woodward]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Truth Shall Set You Free]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/the-truth/"/>
+    <updated>2018-09-01T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/the-truth</id>
+    <content type="html"><![CDATA[<p>I contributed particle animations, object fracturing / destruction, motion graphics building animations, building growth animations, and texturing / rendering (the TRON-style glass portion) for the video.</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/297235061?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[One More]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/web/one-more/"/>
+    <updated>2018-09-01T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/web/one-more</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[OPN - MYRIAD]]></title>
@@ -79,15 +100,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[One More]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/web/raingurl/"/>
-    <updated>2017-11-17T00:00:00-05:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/web/raingurl</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Raingurl]]></title>
     <link href="http://www.nicwoodward.info/nw-info/3d/raingurl/"/>
     <updated>2017-11-15T00:00:00-05:00</updated>
@@ -146,15 +158,6 @@
     <updated>2017-08-15T00:00:00-04:00</updated>
     <id>http://www.nicwoodward.info/nw-info/3d/temple</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Museum]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/3d/museum/"/>
-    <updated>2017-08-05T00:00:00-04:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/3d/museum</id>
-    <content type="html"><![CDATA[<p>For this video I rendered</p>
 ]]></content>
   </entry>
   

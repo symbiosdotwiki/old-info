@@ -4,7 +4,7 @@
   <title><![CDATA[Nic Woodward]]></title>
   <link href="http://www.nicwoodward.info/nw-info/atom.xml" rel="self"/>
   <link href="http://www.nicwoodward.info/nw-info/"/>
-  <updated>2018-12-19T13:05:00-05:00</updated>
+  <updated>2019-02-02T14:58:18-05:00</updated>
   <id>http://www.nicwoodward.info/nw-info/</id>
   <author>
     <name><![CDATA[Nic Woodward]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[OPN - MYRIAD]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/myriad/"/>
+    <updated>2018-05-10T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/myriad</id>
+    <content type="html"><![CDATA[<p>I helped Nate Boyce develop the video component of the MYRIAD tour in Touch Designer with custom GLSL shaders. This effect can be seen whenever the video content dissolves into a liquid. The code was also used in the video for Oneohtrix Point Never&rsquo;s &ldquo;We&rsquo;ll Take It&rdquo; on Warp Records.</p>
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/0tr32NruVGg" allowfullscreen></iframe></div>
+
+
+
+
+<div class="embed-video-container"><iframe src="//www.youtube.com/embed/deNNFkbO5xg" allowfullscreen></iframe></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jungle Butterfly]]></title>
@@ -219,15 +236,6 @@
 
 <div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415956?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Photographer]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/3d/photographer/"/>
-    <updated>2017-02-15T00:00:00-05:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/3d/photographer</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

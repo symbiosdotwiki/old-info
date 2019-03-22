@@ -4,7 +4,7 @@
   <title><![CDATA[Nic Woodward]]></title>
   <link href="http://www.nicwoodward.info/nw-info/atom.xml" rel="self"/>
   <link href="http://www.nicwoodward.info/nw-info/"/>
-  <updated>2019-02-02T16:15:55-05:00</updated>
+  <updated>2019-03-22T12:20:07-04:00</updated>
   <id>http://www.nicwoodward.info/nw-info/</id>
   <author>
     <name><![CDATA[Nic Woodward]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Galtier - Jade Pillar Feat. Recluse]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/galtier-jade/"/>
+    <updated>2019-03-01T00:00:00-05:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/galtier-jade</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Truth Shall Set You Free]]></title>
@@ -212,33 +221,6 @@
     <updated>2017-05-17T00:00:00-04:00</updated>
     <id>http://www.nicwoodward.info/nw-info/physical/momoyo</id>
     <content type="html"><![CDATA[<p>As part of the show EXO EMO at Greene Naftali, curated by Antoine Catala, I created custom software for Momoyo Torimitsu which would allow users to select a type of professional smile and would then apply that smile to a blank-face photo of the user and show this as a video animation. This was a re-creation of a piece from 2007 which required users to manually mark feaures of their face to accomplish the smile animation. For this iteration I used Python OpenCV and the candide3 facial model for the facial-reconstruction engine with a custom single-page Node.js / Handlebars.js user interface which communicated with each other through OSC. Alex Hayden fabricated the custom button interface for the piece.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Theory of Mind]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/3d/antoine-mind/"/>
-    <updated>2017-04-05T00:00:00-04:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/3d/antoine-mind</id>
-    <content type="html"><![CDATA[<p>I worked with Antoine to transform a set of drawing into hyper-realistic renders of 3D Roman comics.</p>
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212082593?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212276159?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415965?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415974?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415948?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
-
-<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/212415956?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
-
 ]]></content>
   </entry>
   

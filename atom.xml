@@ -4,7 +4,7 @@
   <title><![CDATA[Nic Woodward]]></title>
   <link href="http://www.nicwoodward.info/nw-info/atom.xml" rel="self"/>
   <link href="http://www.nicwoodward.info/nw-info/"/>
-  <updated>2019-04-01T01:39:54-04:00</updated>
+  <updated>2019-07-18T08:02:27-04:00</updated>
   <id>http://www.nicwoodward.info/nw-info/</id>
   <author>
     <name><![CDATA[Nic Woodward]]></name>
@@ -14,7 +14,28 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Galtier - Jade Pillar Feat. Recluse]]></title>
+    <title type="html"><![CDATA[Alien Corals]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/GECCO/"/>
+    <updated>2019-07-10T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/GECCO</id>
+    <content type="html"><![CDATA[<p>I worked with Joel to bring his evolved corals to life for the GECCO 2019 Virtual Creatures Competition, where we were finalists. The base mesh for the corals was acheived by using morphgenetic neural nets which considered light and novelty for growth over hundreds of generations. The final meshes were done procedurally in Houdini to add polyp geometry to the base meshes. The final renders were done in C4D with Octane render.</p>
+
+<div class="embed-video-container"><iframe src="https://player.vimeo.com/video/347792384?loop=1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe></div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Eternal]]></title>
+    <link href="http://www.nicwoodward.info/nw-info/3d/sonos/"/>
+    <updated>2019-06-10T00:00:00-04:00</updated>
+    <id>http://www.nicwoodward.info/nw-info/3d/sonos</id>
+    <content type="html"><![CDATA[<p>I worked with Dave and Gabe to develop a pipeline for shader effects for a 3D pixel array using custom 1D GLSL shaders. They then spatialized the stems from Holly Herndon&rsquo;s track &ldquo;Eternal&rdquo; inside Ableton and sequenced the effects out of Ableton with TDAbleton. The event was hosted by Sonos and Google.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Jade Pillar]]></title>
     <link href="http://www.nicwoodward.info/nw-info/3d/galtier-jade/"/>
     <updated>2019-03-01T00:00:00-05:00</updated>
     <id>http://www.nicwoodward.info/nw-info/3d/galtier-jade</id>
@@ -203,24 +224,6 @@
     <updated>2017-06-10T00:00:00-04:00</updated>
     <id>http://www.nicwoodward.info/nw-info/web/yestheearthisflat</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Gamec]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/3d/leah-gamec/"/>
-    <updated>2017-05-20T00:00:00-04:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/3d/leah-gamec</id>
-    <content type="html"><![CDATA[<p>Working from a mood board, I rendered out various speculative renders of what the museum space would like during th exhibition.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Smile :)]]></title>
-    <link href="http://www.nicwoodward.info/nw-info/physical/momoyo/"/>
-    <updated>2017-05-17T00:00:00-04:00</updated>
-    <id>http://www.nicwoodward.info/nw-info/physical/momoyo</id>
-    <content type="html"><![CDATA[<p>As part of the show EXO EMO at Greene Naftali, curated by Antoine Catala, I created custom software for Momoyo Torimitsu which would allow users to select a type of professional smile and would then apply that smile to a blank-face photo of the user and show this as a video animation. This was a re-creation of a piece from 2007 which required users to manually mark feaures of their face to accomplish the smile animation. For this iteration I used Python OpenCV and the candide3 facial model for the facial-reconstruction engine with a custom single-page Node.js / Handlebars.js user interface which communicated with each other through OSC. Alex Hayden fabricated the custom button interface for the piece.</p>
 ]]></content>
   </entry>
   
